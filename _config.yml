@@ -1,0 +1,28 @@
+name: Judith und Olaf
+favicon: null
+layout_spectrum: 0.6570367589592934
+typography_spectrum: 0.9461427074857056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9349873603787273
+  lightness: 0.19537340011447668
+  saturation: 0.04248058795928955
+  rhythmicContrast: 0.3000851352699101
+purpose: []
